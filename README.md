@@ -46,10 +46,15 @@
 ## **Expert Tips**
 
 - Do not make images that can be written as text on the site => The site needs a lot of text so that the search robot can understand the characteristics of the site.
+
 - Don't move links with JavaScript. location.href is not used.
+
 - Avoid making multiple sites by copying a site.
+
 - Make sure the title and description of each page are different.
+
 - Create a site optimized for mobile.
+
 - When there is a separate site such as m.sample.com optimized for mobile, be sure to add canonical.
 
 ## **Why does canonicalization matter?**
